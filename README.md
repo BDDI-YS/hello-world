@@ -1,2 +1,3 @@
 # hello-world
-PEP CONSULTANTS &amp; COACH
+PEP Consulting &amp; Coaching
+PEP Consulting & Coaching
